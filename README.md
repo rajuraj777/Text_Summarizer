@@ -42,3 +42,10 @@ This repository includes:
 - PyTorch
 - Jinja2
 - HTML, CSS, and vanilla JavaScript
+
+## Run this file
+Start the development server:
+
+   ```bash
+   uvicorn app:app --reload
+   ```
